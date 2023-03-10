@@ -1,6 +1,6 @@
 # Simple-File-System
 
-•	Written in C# for a simple file system that can be mounted by the user under a directory in the user’s machine
+•	Written in C for a simple file system that can be mounted by the user under a directory in the user’s machine
 
 •	On-disk data structures of the file system include a “super” block, the root directory, free block list and i-Node table.
 
